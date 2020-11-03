@@ -5,5 +5,8 @@ public class Main {
 
          String nombre = "joham";
          String nombre2="Diego";
+
+         String craestHector = "75.5";
+
     }
 }
