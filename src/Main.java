@@ -7,6 +7,7 @@ public class Main {
          String nombre2="Diego";
 
          String craestHector = "75.5";
+         String craestHectoractual="50.1";
 
     }
 }
