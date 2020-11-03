@@ -4,5 +4,6 @@ public class Main {
 	// write your code here
 
          String nombre = "joham";
+         String nombre2="Diego";
     }
 }
